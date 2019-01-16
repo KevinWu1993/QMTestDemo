@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * author: KevinWu
  * date: 2019/1/15
- * description: DataBase抽象处理器
+ * description: Data抽象处理器，用于将Data数据规整为Map<String,Set<Data>>形式抽象，其中String为分组id
  */
 
 public abstract class AbsDataBeanProcessor implements Processor {

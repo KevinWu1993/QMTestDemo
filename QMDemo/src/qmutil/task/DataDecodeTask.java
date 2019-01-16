@@ -11,8 +11,11 @@ import java.util.Iterator;
 import java.util.concurrent.ExecutorService;
 
 /**
- * 字符串数据解码为data
+ * author: KevinWu
+ * date: 2019/1/16
+ * description: 数据解析Task，将FileReadingTask读取出来的字符串数据解码为Data数据结构
  */
+
 public class DataDecodeTask extends Task {
     private RealDecodeTask realDecodeTask;
 
@@ -90,7 +93,6 @@ public class DataDecodeTask extends Task {
             taskEvent.onFinish();
 
         }
-
 
         private void finish() {
             synchronized (lock) {

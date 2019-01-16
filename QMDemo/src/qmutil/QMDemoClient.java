@@ -8,6 +8,12 @@ import qmutil.processor.Processor;
 
 import java.util.List;
 
+/**
+ * author: KevinWu
+ * date: 2019/1/16
+ * description: 用户是不清楚Dispatcher的，只关心此Client对象，作为一个代理，向Dispatcher中传递用户意图
+ */
+
 public class QMDemoClient {
     private final Dispatcher dispatcher;
 

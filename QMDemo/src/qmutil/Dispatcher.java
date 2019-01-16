@@ -15,7 +15,7 @@ import java.util.concurrent.Executors;
 /**
  * author: KevinWu
  * date: 2019/1/14
- * description: 文件读取与解析任务分发器
+ * description: 任务分发器，用于协调线程池、等待请求队列、正在执行请求队列
  */
 
 final class Dispatcher {

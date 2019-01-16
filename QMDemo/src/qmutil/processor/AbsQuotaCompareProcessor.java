@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * author: KevinWu
  * date: 2019/1/15
- * description: 这个处理器用来处理按Quota升序排序的元素
+ * description: 这个处理器用来处理按Quota升序排序的元素，将在插入的时候对数据进行排序
  */
 
 public abstract class AbsQuotaCompareProcessor extends AbsDataBeanProcessor {
@@ -24,7 +24,6 @@ public abstract class AbsQuotaCompareProcessor extends AbsDataBeanProcessor {
      */
     @Override
     public void putData(Data data) {
-        //TreeMap实现了Comparator，这里直接插入，无需处理排序
         Set<Data> set = dataSetMap.get(data.getGroupId());
         if (set != null) {
             set.add(data);

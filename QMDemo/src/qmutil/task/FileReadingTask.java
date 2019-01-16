@@ -7,6 +7,12 @@ import qmutil.bean.Request;
 import java.io.*;
 import java.util.concurrent.ExecutorService;
 
+/**
+ * author: KevinWu
+ * date: 2019/1/16
+ * description: 文件读取Task，将.txt文件读取并将结果交给DataDecodeTask处理
+ */
+
 public class FileReadingTask extends Task {
 
     @Override

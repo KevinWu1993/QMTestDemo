@@ -9,8 +9,11 @@ import qmutil.processor.Processor;
 import java.util.concurrent.ExecutorService;
 
 /**
- * 字符串数据处理为结果所需数据结构
+ * author: KevinWu
+ * date: 2019/1/16
+ * description: 数据处理规整Task，将Data数据结构集中放到Processor中进行处理
  */
+
 public class DataProcessTask extends Task {
     private final Processor processor;
 

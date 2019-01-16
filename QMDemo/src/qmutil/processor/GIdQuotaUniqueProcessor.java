@@ -1,6 +1,5 @@
 package qmutil.processor;
 
-
 import qmutil.bean.Data;
 
 import java.util.List;

@@ -4,7 +4,7 @@ import java.util.Objects;
 
 /**
  * author: KevinWu
- * date: 2019/1/14
+ * date: 2019/1/15
  * description: 数据实体，以{id, groupId, float}形式
  */
 
