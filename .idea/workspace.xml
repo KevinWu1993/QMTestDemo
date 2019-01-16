@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a23787-fe4b-4c0c-a443-94589fa327a1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/Dispatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/QMDemoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/QMDemoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/CompatibleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/CompatibleBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/EncodeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/EncodeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/bean/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/callback/CallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/callback/CallBack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/AbsDataBeanProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/AbsDataBeanProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/AbsQuotaCompareProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/AbsQuotaCompareProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/GIdQuotaUniqueProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/GIdQuotaUniqueProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/processor/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/task/DataDecodeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/task/DataDecodeTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/task/DataProcessTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/task/DataProcessTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/task/FileReadingTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/task/FileReadingTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QMDemo/src/qmutil/task/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/QMDemo/src/qmutil/task/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasktimeline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tasktimeline.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,19 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataProcessTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/DataProcessTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="10" selection-start-line="10" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FileReadingTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/FileReadingTask.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,13 +72,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QMDemo/src/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="29" column="44" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="44" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dispatcher.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dispatcher.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="MakeFilesUtils.java" pinned="false" current-in-tab="false">
@@ -371,12 +347,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547571589342</updated>
       <workItem from="1547571590729" duration="142000" />
-      <workItem from="1547631847391" duration="9550000" />
+      <workItem from="1547631847391" duration="9968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9692000" />
+    <option name="totallyTimeSpent" value="10110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -640,6 +616,9 @@
           <caret line="29" column="44" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dispatcher.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
