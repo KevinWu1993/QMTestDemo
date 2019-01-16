@@ -2,28 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a23787-fe4b-4c0c-a443-94589fa327a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/QMTestDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/QMDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/DemoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/DemoRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/callback/ResultCallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/AbsDataBeanProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/AbsQuotaCompareProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/GIdQuotaEqualProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/GIdQuotaUniqueProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/entity/DataBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/task/AbsTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/task/decode/DecodeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/task/file/FilesTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/task/file/FilesTaskEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/utils/FilesUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QMDemo/src/demo/utils/MakeFilesUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/DemoConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/DemoRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/Dispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/callback/ResultCallBack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/AbsDataBeanProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/AbsQuotaCompareProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/GIdQuotaEqualProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/GIdQuotaUniqueProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/dataprocessor/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/entity/DataBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/task/AbsTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/task/decode/DecodeTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/task/file/FilesTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/task/file/FilesTaskEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/utils/FilesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMDemo/src/demo/utils/MakeFilesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799270.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799611.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799652.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799833.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799874.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799915.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799956.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799977.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717799998.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/15475717800049.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178000710.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178001111.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178001512.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178002213.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178002414.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178003115.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178003716.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178004117.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178004918.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178005319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178005520.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178006421.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178006922.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178007223.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178007524.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178008225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178010026.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178010327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178010728.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178011129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178011630.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178011931.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178012132.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178012633.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178013034.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178013335.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178014436.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178014937.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178015238.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178016239.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178016540.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178017241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178017842.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178019043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178020444.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178021045.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178021346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178021747.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178022348.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178022549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178023350.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178024151.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178024752.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178025653.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178026054.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178026455.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178026656.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178027657.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178027858.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178028159.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178028360.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178028461.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178028562.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178028963.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178029164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178029365.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178029566.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178029767.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178029968.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178030269.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178030370.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178030571.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178031072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178031573.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178031974.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178032675.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178032776.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178032977.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178033078.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178033379.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178035980.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178036481.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178036982.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178037683.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178038184.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178039285.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178039586.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178039987.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178040588.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178040889.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178041590.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178043091.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178044492.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178044893.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178045194.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178045595.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178045996.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178046197.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178046298.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/154757178046699.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,13 +127,93 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/QMTestDemo$Main.ic" NAME="Main Coverage Results" MODIFIED="1547632340142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DemoRun.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/QMDemo/src/demo/DemoRun.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataProcessTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/DataProcessTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileReadingTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/FileReadingTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-964">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataDecodeTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/DataDecodeTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+              <folding>
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbsQuotaCompareProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/processor/AbsQuotaCompareProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GIdQuotaEqualProcessor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/processor/GIdQuotaEqualProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GIdQuotaUniqueProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/processor/GIdQuotaUniqueProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -47,6 +222,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/QMDemo/src/test/Main.java" />
+        <option value="$PROJECT_DIR$/QMDemo/src/qmutil/Dispatcher.java" />
+        <option value="$PROJECT_DIR$/QMDemo/src/test/MakeFilesUtils.java" />
+        <option value="$PROJECT_DIR$/QMDemo/src/qmutil/Config.java" />
+        <option value="$PROJECT_DIR$/QMDemo/src/qmutil/task/DataDecodeTask.java" />
+        <option value="$PROJECT_DIR$/QMDemo/src/qmutil/processor/GIdQuotaEqualProcessor.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -58,7 +245,6 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -68,9 +254,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,7 +280,30 @@
               <item name="QMTestDemo" type="462c0819:PsiDirectoryNode" />
               <item name="QMDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="qmutil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QMTestDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QMTestDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QMDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="qmutil" type="462c0819:PsiDirectoryNode" />
+              <item name="processor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QMTestDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QMTestDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QMDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="qmutil" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QMTestDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QMTestDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="QMDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,7 +318,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -125,25 +334,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoRun">
-    <configuration name="DemoRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.DemoRun" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
       <module name="QMDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="MakeFilesUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.utils.MakeFilesUtils" />
+      <option name="MAIN_CLASS_NAME" value="test.MakeFilesUtils" />
       <module name="QMDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.utils.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +399,12 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DemoRun" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MakeFilesUtils" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoRun" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MakeFilesUtils" />
       </list>
     </recent_temporary>
@@ -211,42 +420,46 @@
       <option name="presentableId" value="Default" />
       <updated>1547571589342</updated>
       <workItem from="1547571590729" duration="142000" />
+      <workItem from="1547631847391" duration="1348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142000" />
+    <option name="totallyTimeSpent" value="1490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6282051" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,11 +468,124 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/QMDemo/src/demo/DemoRun.java">
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/demo/DemoRun.java" />
+    <entry file="file://$PROJECT_DIR$/data/154763207533698.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="-38702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/154763207495044.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30082" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/154763207534399.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/154763261058299.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8662" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1032" column="19" selection-start-line="1032" selection-start-column="19" selection-end-line="1032" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/test/MakeFilesUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="71" column="55" selection-start-line="71" selection-start-column="55" selection-end-line="71" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/154763299827299.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37842" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/DataProcessTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/FileReadingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-964">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/task/DataDecodeTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/processor/AbsQuotaCompareProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/processor/GIdQuotaUniqueProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QMDemo/src/qmutil/processor/GIdQuotaEqualProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -280,7 +606,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -320,6 +646,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
